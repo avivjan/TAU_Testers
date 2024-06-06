@@ -1,5 +1,5 @@
 README:
-steps tp run the tester:
+steps to run the tester:
 1. Download the Prev_final_100 and compareTester.sh and add them to your project
 2. Upload the project(with the files from 1) to nova
 3. ⁠on Nova write:"chmod +x compareTester.sh"
